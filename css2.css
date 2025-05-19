@@ -1,0 +1,41 @@
+.divs{
+  background-color: orange;
+  height: 50px;
+  width: 300px; 
+  margin: 10px;
+  border-radius: 10px;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+
+.pai{
+  display: flex;
+  justify-content: space-around;
+  height: 500px;
+  width: 100%;
+  border: 1px solid;
+}
+
+.div{
+  border: 1px solid;
+}
+
+button{
+
+}
+
+.Jack{
+  background-color: red;
+}
+.logo{
+  height: 50px;
+  width: 50px;
+}
+
+.nice{
+  background-color: green;
+  color: white;
+}
